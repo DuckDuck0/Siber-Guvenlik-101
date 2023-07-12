@@ -1,1 +1,24 @@
+Kali Linux, Offensive Security şirketi tarafından geliştirilen Debian tabanlı bir Linux dağıtımıdır. 
+Bu sistem, Penetrasyon testi ve network üzerindeki güvenlik açıklarının denetimi için birçok ücretsiz araç içerir.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Kali Linux, Armitage (grafiksel bir siber saldırı yönetim aracı), nmap (bir port tarayıcı), Wireshark (paket analizörü),
+John the Ripper (şifre kırıcı), Aircrack-ng gibi çeşitli araçlardan ve kablosuz LAN'lar için bir nüfuz testi yazılım paketi,
+Burp suite ve OWASP ZAP gibi (her ikisi de web uygulama güvenlik tarayıcılarıdır) programlardan oluşur.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+					-KALI LINUX'U SANAL BİLGİSAYARA KURMAK-
+1. adım- Kali ISO kurulum medyasını bilgisayarınıza indirmek için https://www.kali.org/ resmi websayfasını ziyaret ettikten sonra anasayfada gördüğünüz Download (İndir) butonuna tıklayınız.
+2. adım- Kali websitesinde yenilenen indirme websayfasında kişisel tercihinize göre bir kurulum medyası edinebilirsiniz. Eğer sanal bilgisayara kurulum yapıcak iseniz Virtual Machines seçeneğini seçiniz.
+3. adım-  indirme ikonuna tıklayarak Kali Linux 32-bit, 64-bit(biglisayarınıza göre farklılık gösterebilir) sürümünün ISO dosyasını bilgisayarınıza indiriniz.
+4. adım- VirtualBox veya Vmware uygulamalarından birini indiriniz. 
+5. adım- Uygulamayı açtıktan sonra ilk başta indirmiş olduğunuz kali linux iso dosyasını başlatınız. 
+--Size yardım edebilecek bir kaç video bırakıyorum.
+## https://www.youtube.com/watch?v=X18gj6UXBcI (Kali Linux nasıl kurulur?) (Battal Koç Youtube)
+## https://www.youtube.com/watch?v=kKa4iLNfKdg (Virtualbox sanal makina nasıl kurulur?) (Paradise Yazılım Youtube) 
+## https://www.youtube.com/watch?v=Qx3IcEk4QXA (Vmware sanal makina nasıl kurulur?) (Yazılım Kütüphanesi)
+## https://www.sysnettechsolutions.com/kali-linux-kurulumu/ 
+					-KAYNAKÇA-
+https://tr.wikipedia.org/wiki/Kali_Linux
+https://www.sysnettechsolutions.com/kali-linux-kurulumu/
 
+
+!ÖĞRENİLEN HİÇBİR BİLGİ YASAL OLMAYAN DURUMLARDA KULLANILMAMALIDIR.
